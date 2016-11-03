@@ -1,0 +1,15 @@
+{
+  "name": "wemos_arduino",
+  "keywords": "wemos, arduino",
+  "description": "A library that makes devices discoverable by wemos hubs and amazon echo",
+  "homepage": "https://",
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
